@@ -1,0 +1,2 @@
+rootProject.name = "Jetpack Compose Test Project"
+include ':app'
